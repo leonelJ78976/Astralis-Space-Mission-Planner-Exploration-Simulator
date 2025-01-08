@@ -22,7 +22,9 @@ exploration missions. By integrating machine learning, terrain modeling, and spa
 
 # Technologies in Use (at the moment)
   ~ Programming Languages : Python, JavaScript
+  
   ~ Libraries and Frameworks : Scikit-learn, Tensorflow, Plotly, Cesium.js, Three.js, OpenCV
+  
   ~ Data Sources : NASA Exoplanet Archive, NOAA/GOESS, Digital Elevation Models
 
 
